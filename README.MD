@@ -17,9 +17,13 @@
 
 ---
 
+### flask-deployment.yaml.
+
 ![deployment](/img/deployment.jpg "Deployment в VSC.")
 
 ---
+
+### flask-service.yaml.
 
 ![service](/img/service.jpg "Service в VSC.")
 
@@ -35,7 +39,7 @@
 
 ### Работающий deployment в Lens.
 
-![services](/img/services.jpg "Services в Lens.")
+![Services](/img/Services.jpg "Services в Lens.")
 
 ---
 
