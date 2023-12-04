@@ -37,7 +37,7 @@
 
 ---
 
-### Работающий deployment в Lens.
+### Работающий service в Lens.
 
 ![Services](/img/Services.jpg "Services в Lens.")
 
